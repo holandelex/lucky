@@ -1,0 +1,50 @@
+name: lucky_project
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  auto_route: ^5.0.2
+  bloc: ^8.1.0
+  cloud_firestore: ^4.0.1
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  firebase_auth: ^4.0.1
+  firebase_core: ^2.0.0
+  firebase_messaging: ^14.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_flushbar: ^0.0.2
+  flutter_local_notifications: ^12.0.3
+  font_awesome_flutter: ^10.2.1
+  freezed_annotation: ^2.2.0
+  get_it: ^7.2.0
+  injectable: ^1.5.3
+  json_annotation: ^4.7.0
+  kt_dart: ^1.0.0
+  page_view_indicators: ^2.0.0
+ 
+  rxdart: ^0.27.5
+
+dev_dependencies:
+  auto_route_generator: ^5.0.2
+  build_runner: ^2.2.1
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.2.0
+  injectable_generator: ^1.5.4
+
+  json_serializable: ^6.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/

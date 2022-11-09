@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655791861333",
+    "project_id": "luck-project-2",
+    "storage_bucket": "luck-project-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655791861333:android:0056aec763b33e186a2edc",
+        "android_client_info": {
+          "package_name": "com.example.lucky_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655791861333-ajpk3oods8125se0aa8vr6kjujvk035d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBxSgvw-ExIWSR7SXzgp2n7P5eQl8A1hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655791861333-ajpk3oods8125se0aa8vr6kjujvk035d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
